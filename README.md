@@ -10,6 +10,3 @@ approach to energy cost management, the system supports users in maintaining bet
 Tool Used:
    *Java
    *SQL
-Contact Details:
-  surabhi.22cse@sonatech.ac.in
-  vinudevi.22cse@sonatech.ac.in
